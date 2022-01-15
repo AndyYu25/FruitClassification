@@ -1,5 +1,5 @@
 # FruitClassification
-Implementation of a Convolutional Neural Network to classify fruit images
+Implementation of a Convolutional Neural Network to classify fruit images. Achieves an accuracy above 99.5%
 
 The Fruits 360 Dataset was obtained from kaggle: https://www.kaggle.com/moltean/fruits and is used in accordance with the license below:
 
